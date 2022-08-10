@@ -2,7 +2,7 @@
 
 - This project is a landing page for cyrptocurrency. 
 
-[Netlify](https://crypto-landing-page-harshthakkar1011.netlify.app/)
+[Netlify](https://crypto-landing-page-harshcodes.netlify.app/)
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
